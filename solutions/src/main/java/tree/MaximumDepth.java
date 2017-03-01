@@ -5,18 +5,8 @@ package tree;
  */
 public class MaximumDepth {
 
-    /**
-     * Definition for a binary tree node.
-     **/
-     public class TreeNode {
-          int val;
-          TreeNode left;
-          TreeNode right;
-          TreeNode(int x) { val = x; }
-      }
 
-
-    public static int maxDepth(TreeNode root) {
+    public static int maxDepth(CommonTree.TreeNode root) {
         if (null == root) {
             return 0;
         }
