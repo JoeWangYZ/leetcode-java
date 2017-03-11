@@ -1,7 +1,9 @@
 package tree;
 
+import common.CommonTree;
+
 /**
- * Created by wangyuzhou on 2017/2/24.
+ * Created by joe wang on 2017/2/24.
  */
 public class BalancedBinaryTree {
     private boolean isBalanced = true;

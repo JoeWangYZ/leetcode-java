@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Created by wangyuzhou on 2017/2/23.
+ * Created by joe wang on 2017/2/23.
  * time complex: O(N*logN)
  */
 public class QuickSort {

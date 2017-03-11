@@ -1,7 +1,7 @@
 package math;
 
 /**
- * Created by wangyuzhou on 2017/2/13.
+ * Created by joe wang on 2017/2/13.
  */
 public class ReverseInteger {
     public int reverse(int x) {
