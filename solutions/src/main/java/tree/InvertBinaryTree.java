@@ -3,7 +3,7 @@ package tree;
 import common.CommonTree;
 
 /**
- * Created by wangyuzhou on 2017/3/1.
+ * Created by joe wang on 2017/3/1.
  */
 public class InvertBinaryTree {
     public CommonTree.TreeNode invertTree(CommonTree.TreeNode root) {

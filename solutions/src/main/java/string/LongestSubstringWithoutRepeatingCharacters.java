@@ -22,7 +22,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
         if (s == null || s.length() <= 0) {
             return 0;
         }
-        HashMap<Integer, Integer> mark = new HashMap<>();
+        HashMap<Integer, Integer> mark = new HashMap<Integer, Integer>();
         int longestLength = 0;
         int i = 0;
         int lastRepeatIndex = 0;
