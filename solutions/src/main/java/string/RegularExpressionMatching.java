@@ -59,7 +59,7 @@ public class RegularExpressionMatching {
                 pIndex ++;
                 continue;
             }
-            if (p.charAt(pIndex + 1) == STAR && cs =)
+//            if (p.charAt(pIndex + 1) == STAR && cs =)
         }
 
         if (sIndex == s.length() && pIndex == p.length()) {
